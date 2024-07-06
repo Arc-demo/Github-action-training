@@ -1,9 +1,9 @@
 name: naming convention of workflow
 run-name: run_name_name
-on:
+on: 
   push:
     branches:
-      - master
+      - main
 jobs:
   job_name:
     name: job1
