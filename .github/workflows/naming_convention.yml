@@ -1,5 +1,5 @@
 name: naming convention of workflow
-
+run-name: run_name_name
 on:
   push:
     branches:
